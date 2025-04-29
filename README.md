@@ -66,12 +66,12 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/Barrsum/Constilition-Map.git
+    git clone https://github.com/Barrsum/Constellation-Map.git
     ```
 
 2.  **Navigate to the project directory:**
     ```bash
-    cd Constilition-Map
+    cd Constellation-Map
     ```
 
 3.  **Install NPM packages:**
