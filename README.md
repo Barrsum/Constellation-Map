@@ -1,4 +1,4 @@
-# Constilition Map: 3D Constellation Explorer ✨🌌🔭
+# Constellation Map: 3D Constellation Explorer ✨🌌🔭
 
 ## Try live demo - [Demo](https://constilition-map.vercel.app/)
 
@@ -16,7 +16,7 @@ An immersive and visually stunning 3D constellation viewer built with React, Vit
 
 ## Overview
 
-Constilition Map offers an interactive journey through the cosmos right from your browser. Centered around a beautifully textured 3D Earth model, the application renders a dynamic starfield and the major constellations.
+Constellation Map offers an interactive journey through the cosmos right from your browser. Centered around a beautifully textured 3D Earth model, the application renders a dynamic starfield and the major constellations.
 
 Users can freely rotate, zoom, and pan the view. Hovering over the stars of a constellation reveals its familiar shape with highlighted lines and stars. Clicking on a constellation brings up an elegant modal window displaying its name, designation, English name, and other available details from the dataset.
 
