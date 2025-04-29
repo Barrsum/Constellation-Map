@@ -55,7 +55,7 @@ function App() {
   return (
     <div className="relative min-h-screen flex flex-col bg-gray-100 dark:bg-gray-900">
       <Header
-        title="Constellation-Map"
+        title="Constellation Map"
         creator="Ram Bapat"
         theme={theme}
         toggleTheme={toggleTheme}
