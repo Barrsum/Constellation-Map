@@ -34,7 +34,7 @@ function Footer() {
          Connect via LinkedIn / View Source on GitHub
       </p>
 
-      <p className="text-xs md:text-sm text-slate-500">Constilition Map</p>
+      <p className="text-xs md:text-sm text-slate-500">Constellation Map</p>
 
       <p className="text-xs md:text-sm font-light text-slate-500">
         Created By Ram Bapat
